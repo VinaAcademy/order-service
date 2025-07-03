@@ -8,10 +8,10 @@
         <version>1.0.1</version>
     </parent>
     <groupId>vn.vinaacademy</groupId>
-    <artifactId>order-service</artifactId>
+    <artifactId>commerce-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>order-service</name>
-    <description>order-service</description>
+    <name>commerce-service</name>
+    <description>commerce-service</description>
     <url/>
     <licenses>
         <license/>
