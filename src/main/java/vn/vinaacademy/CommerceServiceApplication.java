@@ -1,4 +1,4 @@
-package vn.vinaacademy.order;
+package vn.vinaacademy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -12,10 +12,10 @@ import org.springframework.context.annotation.ComponentScan;
         "vn.vinaacademy.common",
 })
 @EnableDiscoveryClient
-public class OrderServiceApplication {
+public class CommerceServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(OrderServiceApplication.class, args);
+        SpringApplication.run(CommerceServiceApplication.class, args);
     }
 
 }
