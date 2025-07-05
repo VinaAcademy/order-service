@@ -42,6 +42,9 @@ spring:
       host: localhost
       port: 27017
       database: vinaacademy_commerce
+      username: root
+      password: example
+      authenticationDatabase: admin
 
   kafka:
     bootstrap-servers: localhost:9092
